@@ -34,9 +34,29 @@ public class missingrolls {
 		}    
 
 	
+//	public static int[] possibleOutcome(int[] A, int F, int M)
+//	{
+//		int sumOfknownrolls = 0;
+//		int sumOUnknownRolls =0;
+//		 
+//		for(int i=0;i<A.length;i++)
+//		{
+//			sumOfknownrolls+=A[i];
+//		}
+//		
+//		
+//		 sumOUnknownRolls = (M * (A.length+F)) - sumOfknownrolls;
+//		 
+//		 
+//		 
+//	}
+	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		int a[] = {1,5,6};
+		System.out.println("the missing array is---------"+solution(a,4,3));
 
 	}
 
