@@ -1,2 +1,2 @@
 # Codility
-   Some attempt to solve DSA related questions
+   Some attempts to solve DSA related questions
